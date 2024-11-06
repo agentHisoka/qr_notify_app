@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "489104941464",
+    "firebase_url": "https://qrnotify-a5fbd-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "qrnotify-a5fbd",
+    "storage_bucket": "qrnotify-a5fbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489104941464:android:946afaee121897dab00bed",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn_L5CqBDrTNJx-HEnvS12Cb7Y7q9s9J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489104941464:android:49c1a80b2b38abf2b00bed",
+        "android_client_info": {
+          "package_name": "com.example.qr_notify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn_L5CqBDrTNJx-HEnvS12Cb7Y7q9s9J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
